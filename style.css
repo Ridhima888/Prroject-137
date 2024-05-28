@@ -1,0 +1,13 @@
+#Instructions{
+    float: right;
+}
+
+.header{
+    width: 100%;
+    font-size: 20px;
+}
+
+#play,#status{
+    font-size: 18px;
+    border-radius: 15px;
+}
